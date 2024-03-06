@@ -130,14 +130,19 @@ h1 {
   }
 
   .cabecalho__menu{
-    justify-content: center;
+    justify-content: center;   
   }
 
   .apresentacao {
     flex-direction: column-reverse;
+    padding: 5%;
   }
 
   .apresentacao__conteudo{
     width: 100%;
+  }
+
+  .apresentacao__links__navegacao{
+    padding: 15px 25px;
   }
 }
